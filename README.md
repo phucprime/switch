@@ -15,5 +15,6 @@ Tailwind's classname is transforming the switch-circle
   const myClassName = 'transform translate-x-6';
 ```
 
+<a href="#"><img src="https://i.imgur.com/nCJ31NK.gif" title="source: imgur.com" /></a>
 
  
